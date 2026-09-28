@@ -1,11 +1,2 @@
-.venv/
-__pycache__/
-*.py[cod]
-*.egg-info/
-build/
-dist/
-.pytest_cache/
-.idea/
-.DS_Store
-config/local.json
+﻿sim_output.txt
 runtime/

@@ -1,2 +1,4 @@
 ﻿sim_output.txt
 runtime/
+
+.venv/
